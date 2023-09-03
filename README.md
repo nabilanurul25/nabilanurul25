@@ -1,16 +1,30 @@
-### Hi there 👋
+# Halo, Saya Nabila Nurul! 👋
 
-<!--
-**nabilanurul25/nabilanurul25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Selamat datang di profil GitHub saya! Saya adalah seorang pengembang perangkat lunak yang bersemangat tentang teknologi dan pemrograman.
 
-Here are some ideas to get you started:
+## Tentang Saya
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Saya saat ini sedang mempelajari berbagai bahasa pemrograman dan teknologi.
+- 💼 Saya bekerja sebagai [posisi pekerjaan Anda] di [nama perusahaan Anda].
+- 📫 Anda bisa menghubungi saya melalui email di [email Anda].
+- 😄 Pronouns: She/Her
+
+## Sosial Media
+
+Anda dapat menghubungi saya dan melihat lebih banyak tentang proyek-proyek saya di:
+
+- [LinkedIn](https://www.linkedin.com/in/nabilanurul/)
+- [Instagram](https://www.instagram.com/nabilanurul/)
+
+## Proyek-Proyek
+
+Di bawah ini adalah beberapa proyek yang saya kerjakan atau saya sedang mengerjakannya:
+
+1. [Nama Proyek 1](https://github.com/nabilanurul/proyek1) - Deskripsi singkat tentang proyek pertama Anda.
+2. [Nama Proyek 2](https://github.com/nabilanurul/proyek2) - Deskripsi singkat tentang proyek kedua Anda.
+
+## Statistik GitHub
+
+[![Statistik GitHub Nabila Nurul](https://github-readme-stats.vercel.app/api?username=nabilanurul&show_icons=true&theme=dark)](https://github.com/nabilanurul)
+
+Terima kasih telah mengunjungi profil GitHub saya!
