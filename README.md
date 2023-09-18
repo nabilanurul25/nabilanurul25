@@ -5,8 +5,8 @@ Selamat datang di profil GitHub saya! Saya adalah seorang pengembang perangkat l
 ## Tentang Saya
 
 - 🌱 Saya saat ini sedang mempelajari berbagai bahasa pemrograman dan teknologi.
-- 💼 Saya bekerja sebagai [posisi pekerjaan Anda] di [nama perusahaan Anda].
-- 📫 Anda bisa menghubungi saya melalui email di [email Anda].
+- 💼 Saya bekerja sebagai freelance web developer.
+- 📫 Anda bisa menghubungi saya melalui email di nabilanurul@gmail.com
 - 😄 Pronouns: She/Her
 
 ## Sosial Media
